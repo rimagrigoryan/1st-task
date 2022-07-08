@@ -1,4 +1,5 @@
 #%%
+from turtle import hideturtle
 import pandas as pd
 
 # %%
@@ -12,4 +13,4 @@ df.info()
 
 # %%
 df.to_csv("armenian_pubs_exported.csv")
-# %%
+
