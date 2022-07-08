@@ -13,4 +13,3 @@ df.info()
 
 # %%
 df.to_csv("armenian_pubs_exported.csv")
-
