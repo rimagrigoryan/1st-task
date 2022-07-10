@@ -13,7 +13,7 @@
 ### Favorite pubs
 
 1. Calumet :smiling_face_with_three_hearts:
-2. Beatles :U+263A:
-3. Irish pub :U+1F607:
+2. Beatles :star_struck:
+3. Irish pub :roll_eyes:
 
 
