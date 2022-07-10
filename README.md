@@ -6,8 +6,9 @@
 
 ## Most common reasons for people to go a certain pub
 
--Enviroment
--Music
--Pricing
+- Enviroment
+- Music
+- Pricing
+
 
 
