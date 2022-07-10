@@ -1,3 +1,2 @@
-# Head Line
+## A sample of markdown
 
-Adding a sample of markdown
