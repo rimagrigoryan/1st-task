@@ -41,7 +41,3 @@ df5
 # %%
 df6 = df.pivot_table(index=['Gender',], values=["Income", "WTS"], aggfunc='mean')
 
-# %%
-df.to_csv("armenian_pubs_pivot_table1.csv") 
-
-# %%
