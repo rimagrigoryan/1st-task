@@ -40,4 +40,3 @@ df5
 
 # %%
 df6 = df.pivot_table(index=['Gender',], values=["Income", "WTS"], aggfunc='mean')
-
