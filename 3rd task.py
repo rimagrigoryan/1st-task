@@ -45,3 +45,4 @@ df6 = df.pivot_table(index=['Gender',], values=["Income", "WTS"], aggfunc='mean'
 df6.to_csv("armenian_pubs_pivot_table.csv") 
 
 # %%
+hh
